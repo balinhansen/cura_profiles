@@ -1,0 +1,15 @@
+x (width):	120 mm
+y (depth): 	120 mm
+z (height):	120 mm
+
+Origin at center:	no
+heated bed:		yes
+
+x min:		75 mm
+y min:		18 mm
+x max:		18 mm
+y max:		35 mm
+
+gantry height:		55 mm
+material diameter:	1.75 mm
+nozzle size:		0.4 mm
