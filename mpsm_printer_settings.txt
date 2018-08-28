@@ -1,3 +1,5 @@
+Gcode Flavor: RepRap
+
 x (width):	120 mm
 y (depth): 	120 mm
 z (height):	120 mm
