@@ -1,4 +1,5 @@
 Gcode Flavor: RepRap
+layer higher: 0.0875
 
 x (width):	120 mm
 y (depth): 	120 mm
